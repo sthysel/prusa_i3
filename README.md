@@ -1,3 +1,3 @@
-# marlin_prusa_i3
+# marlin prusa i3
 
-Config for my marlin_prusa_i3 (Proessie)
+Config for marlin for Prusa i3 (Proessie)
