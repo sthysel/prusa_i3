@@ -1,10 +1,14 @@
 Prusa i3 toolchain and config
 =============================
 
-* Marlin
-* Slic3r
-* Pronterface
-* Octoprint
+|| Tool || Config || Notes ||
+| [Marlin](https://github.com/MarlinFirmware/Marlin) | [Configuration.h)| |
+| Slic3r | | |
+| Pronterface | | |
+| Octoprint | | |
+
+[Prusa i3 Photo Album](https://goo.gl/photos/rhTh7pEu8qJ3ixe46)
+
 
 Alignment
 ---------
