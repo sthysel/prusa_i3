@@ -1,14 +1,18 @@
-# Sthysel's prusa i3
+Prusa i3 toolchain and config
+=============================
 
-##Toolchain and toolchain config
 * Marlin
 * Slic3r
 * Pronterface
 * Octoprint
 
+Alignment
+---------
+![Prusa i3 alignment][alignment]
 
-![Prusa i3 algnment][alignment]
+Front view
+----------
 ![Prusa Front][prusa_front]
 
-[alignment]: https://goo.gl/4e8Qz7 "Alignment"
+[alignment]: https://goo.gl/ZFCxZg "Alignment"
 [prusa_front]: https://goo.gl/7xQ2qR "Prusa Front"
