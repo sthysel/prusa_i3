@@ -18,7 +18,13 @@ Right view
 ----------
 ![Prusa Right][prusa_right]
 
+Z Axis Min Endstop placement
+----------------------------
+![Z axis min endstop][z_min_endstop]
+
+
 
 [alignment]: https://goo.gl/ZFCxZg "Alignment"
 [prusa_front]: https://goo.gl/7xQ2qR "Prusa Front"
 [prusa_right]: https://goo.gl/FhJNED "Prusa Right"
+[z_min_endstop]: https://goo.gl/Kv7RCu "Z axis min endstop placement"
